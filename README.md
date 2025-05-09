@@ -8,5 +8,5 @@ All credit to the original author for the foundation and inspiration.
 ## Usage
 
 ```bash
-go run main.go input.json
+go run main.go
 ```
